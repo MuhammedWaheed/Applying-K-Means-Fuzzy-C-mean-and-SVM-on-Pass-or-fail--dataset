@@ -1,0 +1,1 @@
+# Applying-K-Means-Fuzzy-C-mean-and-SVM-on-Pass-or-fail--dataset
